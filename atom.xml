@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>OctKun&#39;s Blog</title>
   
+  <subtitle>前端开发博客</subtitle>
+  <link href="https://blog.octkun.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2023-05-18T13:53:08.405Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://blog.octkun.top/"/>
+  <updated>2023-05-27T15:40:16.451Z</updated>
+  <id>https://blog.octkun.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>OctKun</name>
     
   </author>
   
@@ -18,33 +18,37 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://example.com/2023/05/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2023/05/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://blog.octkun.top/2023/05/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://blog.octkun.top/2023/05/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2023-05-18T13:52:01.000Z</published>
-    <updated>2023-05-18T13:53:08.405Z</updated>
+    <updated>2023-05-27T15:40:16.451Z</updated>
     
-    <content type="html"><![CDATA[<p>markdown，支持html和其自带的语法。Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p>]]></content>
+    <content type="html"><![CDATA[<p>markdown，支持html和其自带的语法。Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p><figure class="highlight typescript"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>);</span><br><span class="line"><span class="keyword">const</span> <span class="title function_">add</span> = (<span class="params">a: <span class="built_in">number</span>, b: <span class="built_in">number</span></span>) =&gt; a + b</span><br></pre></td></tr></table></figure>]]></content>
     
     
     <summary type="html">摘要</summary>
     
     
     
-    <category term="默认分类" scheme="http://example.com/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    <category term="默认分类" scheme="https://blog.octkun.top/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
     
     
-    <category term="tag1" scheme="http://example.com/tags/tag1/"/>
+    <category term="a" scheme="https://blog.octkun.top/tags/a/"/>
     
-    <category term="tag2" scheme="http://example.com/tags/tag2/"/>
+    <category term="b" scheme="https://blog.octkun.top/tags/b/"/>
     
-    <category term="tag3" scheme="http://example.com/tags/tag3/"/>
+    <category term="c" scheme="https://blog.octkun.top/tags/c/"/>
+    
+    <category term="f" scheme="https://blog.octkun.top/tags/f/"/>
+    
+    <category term="d" scheme="https://blog.octkun.top/tags/d/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/05/18/hello-world/"/>
-    <id>http://example.com/2023/05/18/hello-world/</id>
+    <link href="https://blog.octkun.top/2023/05/18/hello-world/"/>
+    <id>https://blog.octkun.top/2023/05/18/hello-world/</id>
     <published>2023-05-17T21:59:11.194Z</published>
     <updated>2023-05-17T21:59:11.194Z</updated>
     
