@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>OctKun&#39;s Blog</title>
   
-  <subtitle>前端开发博客</subtitle>
+  <subtitle>前端开发</subtitle>
   <link href="https://blog.octkun.top/atom.xml" rel="self"/>
   
   <link href="https://blog.octkun.top/"/>
-  <updated>2023-05-28T15:20:38.035Z</updated>
+  <updated>2023-05-31T15:55:07.590Z</updated>
   <id>https://blog.octkun.top/</id>
   
   <author>
@@ -18,30 +18,56 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="https://blog.octkun.top/2023/05/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://blog.octkun.top/2023/05/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://blog.octkun.top/2023/05/18/first%20article/"/>
+    <id>https://blog.octkun.top/2023/05/18/first%20article/</id>
     <published>2023-05-18T13:52:01.000Z</published>
-    <updated>2023-05-28T15:20:38.035Z</updated>
+    <updated>2023-05-31T15:55:07.590Z</updated>
     
     <content type="html"><![CDATA[<p>markdown</p><figure class="highlight typescript"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>);</span><br><span class="line"><span class="keyword">const</span> <span class="title function_">add</span> = (<span class="params">a: <span class="built_in">number</span>, b: <span class="built_in">number</span></span>) =&gt; a + b</span><br></pre></td></tr></table></figure>]]></content>
     
     
-    <summary type="html">摘要</summary>
+      
+      
+    <summary type="html">&lt;p&gt;markdown&lt;/p&gt;
+&lt;figure class=&quot;highlight typescript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;variable language_&quot;&gt;co</summary>
+      
     
     
     
     <category term="默认分类" scheme="https://blog.octkun.top/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
     
+    <category term="a" scheme="https://blog.octkun.top/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/a/"/>
     
-    <category term="a" scheme="https://blog.octkun.top/tags/a/"/>
     
-    <category term="b" scheme="https://blog.octkun.top/tags/b/"/>
+    <category term="HTML" scheme="https://blog.octkun.top/tags/HTML/"/>
     
-    <category term="c" scheme="https://blog.octkun.top/tags/c/"/>
+    <category term="CSS" scheme="https://blog.octkun.top/tags/CSS/"/>
     
-    <category term="f" scheme="https://blog.octkun.top/tags/f/"/>
+    <category term="JavaScript" scheme="https://blog.octkun.top/tags/JavaScript/"/>
     
-    <category term="d" scheme="https://blog.octkun.top/tags/d/"/>
+    <category term="TypeScript" scheme="https://blog.octkun.top/tags/TypeScript/"/>
+    
+    <category term="React" scheme="https://blog.octkun.top/tags/React/"/>
+    
+    <category term="Vue" scheme="https://blog.octkun.top/tags/Vue/"/>
+    
+    <category term="Next" scheme="https://blog.octkun.top/tags/Next/"/>
+    
+    <category term="Nuxt" scheme="https://blog.octkun.top/tags/Nuxt/"/>
+    
+    <category term="React Router" scheme="https://blog.octkun.top/tags/React-Router/"/>
+    
+    <category term="React Query" scheme="https://blog.octkun.top/tags/React-Query/"/>
+    
+    <category term="npm" scheme="https://blog.octkun.top/tags/npm/"/>
+    
+    <category term="webpack" scheme="https://blog.octkun.top/tags/webpack/"/>
+    
+    <category term="Rollup" scheme="https://blog.octkun.top/tags/Rollup/"/>
+    
+    <category term="Node" scheme="https://blog.octkun.top/tags/Node/"/>
+    
+    <category term="Nest" scheme="https://blog.octkun.top/tags/Nest/"/>
     
   </entry>
   
